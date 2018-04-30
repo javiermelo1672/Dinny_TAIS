@@ -1,0 +1,8 @@
+{
+  "name": "Dinny",
+  "app_id": "fbfbf643",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
